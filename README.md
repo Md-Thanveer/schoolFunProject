@@ -26,4 +26,4 @@ A fun and educational Laravel project designed with creative layouts and animate
 
 ---
 
-Let me know if you want to add animations, student profile pages, or a mini admin dashboard!
+
