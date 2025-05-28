@@ -34,7 +34,7 @@ A fun and educational Laravel project designed with creative layouts and animate
 ![Home](screenshots/Home.png)
 
 ### 🧩 About Page  
-![Home](screenshots/About-us.png)
+![About](screenshots/About-us.png)
 
 ### 🏫 School Page  
 ![School](screenshots/school.png)
@@ -47,4 +47,4 @@ A fun and educational Laravel project designed with creative layouts and animate
 
 ---
 
-Feel free to suggest new features like animations, student profiles, or admin dashboards!
+
