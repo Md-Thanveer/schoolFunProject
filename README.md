@@ -1,6 +1,6 @@
 # 🏫 HomeToSchool Laravel Project
 
-A fun and educational Laravel project designed with creative layouts and animated routes that simulate a journey from "Home" to "School". Ideal for beginners exploring Laravel MVC structure, Blade templating, and routing in a playful way.
+A fun and educational Laravel project designed with creative layouts and animated routes that simulate a journey from **Home** to **School**. Ideal for beginners exploring Laravel MVC structure, Blade templating, and routing in a playful way.
 
 ---
 
@@ -19,11 +19,32 @@ A fun and educational Laravel project designed with creative layouts and animate
 
 ## 📂 Basic Routes
 
-- `/` - Home page
-- `/school` - School welcome page
-- `/class` - Classroom information
-- `/event` - School events display
+| Route        | Description             |
+|--------------|-------------------------|
+| `/`          | Home page               |
+| `/school`    | School welcome page     |
+| `/class`     | Classroom information   |
+| `/event`     | School events display   |
 
 ---
 
-Let me know if you want to add animations, student profile pages, or a mini admin dashboard!
+## 📸 Screenshots
+
+### 🏠 Home Page  
+![Home](screenshots/Home.png)
+
+### 🧩 About Page  
+![Home](screenshots/About-us.png)
+
+### 🏫 School Page  
+![School](screenshots/school.png)
+
+### 🧑‍🏫 Class Page  
+![Class](screenshots/classes.png)
+
+### 🎉 Events Page  
+![Events](screenshots/Events.png)
+
+---
+
+Feel free to suggest new features like animations, student profiles, or admin dashboards!
